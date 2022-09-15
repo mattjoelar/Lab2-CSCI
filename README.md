@@ -1,6 +1,7 @@
 
 # Lab2-CSCI 
-Project Group Members: Juno Park, Matthew O'Leary
+Project Group Members: Juno Park, Matthew O'Leary, Nathan Y
+
 Nathan Young (nathan4922)
 Matt O'Leary (mattjoelar) Scribe
 Juno Park (JunoPark-01)
